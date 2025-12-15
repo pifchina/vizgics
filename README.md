@@ -10,8 +10,6 @@ A comprehensive full-stack application for comparing companies and industries us
 - [Features](#-features)
 - [Getting Started](#-getting-started)
 - [API Endpoints](#-api-endpoints)
-- [Architecture](#-architecture)
-- [Configuration](#-configuration)
 
 ## 🎯 Overview
 
